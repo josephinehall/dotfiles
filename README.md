@@ -1,4 +1,4 @@
-# Tim’s dotfiles
+# Jojo’s dotfiles
 
 Used in conjunction with [icelab/dotfiles](http://github.com/icelab/dotfiles).
 
@@ -9,7 +9,7 @@ brew tap thoughtbot/formulae
 brew install rcm
 
 git clone https://github.com/icelab/dotfiles.git ~/.dotfiles-icelab
-git clone https://github.com/timriley/dotfiles.git ~/.dotfiles-personal
+git clone https://github.com/josephinehall/dotfiles.git ~/.dotfiles-personal
 
 rcup -d ~/.dotfiles-personal ~/.dotfiles-icelab  -x README.md -x LICENSE
 ```
