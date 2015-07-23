@@ -34,7 +34,7 @@
     "public/assets"
   ],
   "font_size": 12,
-  "highlight_line": true,
+  "highlight_line": false,
   "ignored_packages":
   [
     "Vintage",
