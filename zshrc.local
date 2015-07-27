@@ -14,3 +14,4 @@ fi
 export VISUAL=subl
 export EDITOR=$VISUAL
 
+$(boot2docker shellinit)
