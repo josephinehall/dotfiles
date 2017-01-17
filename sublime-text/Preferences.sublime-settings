@@ -9,12 +9,11 @@
   "auto_complete_commit_on_tab": true,
   "bold_folder_labels": true,
   "caret_style": "solid",
-  "color_scheme": "Packages/Theme - Popcorn/Popcorn.tmTheme",
   "ensure_newline_at_eof_on_save": true,
   "file_exclude_patterns":
   [
     "*.a",
-    "*.dump*"
+    "*.dump*",
     ".DS_Store",
     ".dat*",
     ".gitkeep",
@@ -38,7 +37,7 @@
     "*.scssc",
     "*.sdf",
     "*.so",
-    "*.suo",
+    "*.suo"
   ],
   "folder_exclude_patterns":
   [
@@ -60,24 +59,18 @@
     "assets/shared/vendor",
     "public/assets"
   ],
-  "font_face": "SF Mono Medium",
   "font_options":
   [
     "subpixel_antialias"
   ],
   "font_size": 13.0,
+  "highlight_line": false,
   "ignored_packages":
   [
     "Vintage",
     "Markdown"
   ],
   "line_padding_bottom": 1,
-  "highlight_line": false,
-  "ignored_packages":
-  [
-    "Markdown",
-    "Vintage"
-  ],
   "scroll_past_end": true,
   "spell_check": true,
   "tab_size": 2,
